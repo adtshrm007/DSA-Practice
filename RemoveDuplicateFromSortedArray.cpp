@@ -25,7 +25,7 @@ int main() {
 
     int ans = s.removeDuplicates(nums);
 
-    cout << ans << endl;
+    cout << ans;
 
     return 0;
 }
